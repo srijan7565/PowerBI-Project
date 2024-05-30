@@ -7,3 +7,6 @@ This power BI dashboard will take you to the Power Query environment where I hav
 In this Power BI dashboard, I create HR using a report/dashboard with the flat file i.e. excel file. Power Query will help me to make the data clean and easy to use for analysis.
 
 This Dashboard will help me create advance reports and dashboards.
+
+![image](https://github.com/srijan7565/PowerBI-Project/assets/133694651/25fe615b-3635-4b26-be7d-5d01917c5f1e)
+
