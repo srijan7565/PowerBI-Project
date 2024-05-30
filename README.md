@@ -1,6 +1,6 @@
 # PowerBI-Project
 
-HR Analytcis Dashboard
+**HR Analytcis Dashboard**
 
 This power BI dashboard will take you to the Power Query environment where I have done data transformed and cleaned, then load it to the Power BI environment for further analysis and and build the dashboard.
 
@@ -12,6 +12,9 @@ Results to analyze employee data, resulting in a 20% improvement in HR decisionm
 and a 15% increase in employee retention.
 
 ![image](https://github.com/srijan7565/PowerBI-Project/assets/133694651/25fe615b-3635-4b26-be7d-5d01917c5f1e)
+
+
+**Pizza Sales Dashboard:**
 
 
 I built an interactive report that analyzed pizza sales data using PowerBI.
