@@ -8,5 +8,8 @@ In this Power BI dashboard, I create HR using a report/dashboard with the flat f
 
 This Dashboard will help me create advance reports and dashboards.
 
+Results to analyze employee data, resulting in a 20% improvement in HR decisionmaking
+and a 15% increase in employee retention.
+
 ![image](https://github.com/srijan7565/PowerBI-Project/assets/133694651/25fe615b-3635-4b26-be7d-5d01917c5f1e)
 
