@@ -18,6 +18,9 @@ and a 15% increase in employee retention.
 
 ![image](https://github.com/srijan7565/PowerBI-Project/assets/133694651/df79b312-1ca8-4dc3-addb-14d66e8bb505)
 
+![image](https://github.com/srijan7565/PowerBI-Project/assets/133694651/8eb4aa5e-6b29-48f6-9663-4860f1b33e46)
+
+
 
 I built an interactive report that analyzed pizza sales data using PowerBI.
 
