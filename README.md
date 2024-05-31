@@ -44,7 +44,7 @@ and a 15% increase in employee retention.
 ![image](https://github.com/srijan7565/PowerBI-Project/assets/133694651/25fe615b-3635-4b26-be7d-5d01917c5f1e)
 
 
-**Pizza Sales Dashboard:**
+📌**Pizza Sales Dashboard:**
 
 ![image](https://github.com/srijan7565/PowerBI-Project/assets/133694651/df79b312-1ca8-4dc3-addb-14d66e8bb505)
 
