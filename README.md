@@ -1,6 +1,6 @@
 # PowerBI-Project
 
-**Credit Card Weekly Status Report**
+📌 **Credit Card Weekly Status Report**
 
 1.Project objective
 2.Data from SQL
@@ -30,7 +30,7 @@ Overview YTD:
 ![image](https://github.com/srijan7565/PowerBI-Projects/assets/133694651/06fd6097-72f1-4d05-bb12-dfea4af31de1)
 
 
-**HR Analytcis Dashboard**
+📌 **HR Analytcis Dashboard**
 
 This power BI dashboard will take you to the Power Query environment where I have done data transformed and cleaned, then load it to the Power BI environment for further analysis and and build the dashboard.
 
@@ -54,11 +54,11 @@ and a 15% increase in employee retention.
 
 I built an interactive report that analyzed pizza sales data using PowerBI.
 
-📌 𝐓𝐇𝐄 𝐂𝐇𝐀𝐋𝐋𝐄𝐍𝐆𝐄 Plato's Pizza enlisted the services of a BI Consultant to harness restaurant's data for operational improvement. Here are the questions we aimed to answer: ▪ What days and times are we the busiest? ▪ How many pizzas are we making during peak periods? ▪ What are our best and worst selling pizzas? ▪ What's our average order value?
+𝐓𝐇𝐄 𝐂𝐇𝐀𝐋𝐋𝐄𝐍𝐆𝐄 Plato's Pizza enlisted the services of a BI Consultant to harness restaurant's data for operational improvement. Here are the questions we aimed to answer: ▪ What days and times are we the busiest? ▪ How many pizzas are we making during peak periods? ▪ What are our best and worst selling pizzas? ▪ What's our average order value?
 
-📌 𝐃𝐀𝐓𝐀 𝐏𝐑𝐄𝐏𝐀𝐑𝐀𝐓𝐈𝐎𝐍 🔹 Connected CSV data source and imported 4 tables. 🔹 Conducted thorough data cleaning using Power BI's Power Query Editor. 🔹 Established data modeling with necessary relationships, creating a snowflake schema. 🔹 Implemented DAX to create essential measures for KPIs. 🔹 Designed visuals using various chart types and incorporated slicers and filters for data exploration. 🔹 Published the report to the Power BI service for accessibility.
+𝐃𝐀𝐓𝐀 𝐏𝐑𝐄𝐏𝐀𝐑𝐀𝐓𝐈𝐎𝐍 🔹 Connected CSV data source and imported 4 tables. 🔹 Conducted thorough data cleaning using Power BI's Power Query Editor. 🔹 Established data modeling with necessary relationships, creating a snowflake schema. 🔹 Implemented DAX to create essential measures for KPIs. 🔹 Designed visuals using various chart types and incorporated slicers and filters for data exploration. 🔹 Published the report to the Power BI service for accessibility.
 
-🔑 𝐊𝐄𝐘 𝐈𝐍𝐒𝐈𝐆𝐇𝐓𝐒 Here are the standout insights from analysis: ▪ 💰 Plato's Pizza achieved an impressive $817,860 in revenue by selling a total of 49,574 pizzas through 21,350 orders over the course of a year.
+𝐊𝐄𝐘 𝐈𝐍𝐒𝐈𝐆𝐇𝐓𝐒 Here are the standout insights from analysis: ▪ 💰 Plato's Pizza achieved an impressive $817,860 in revenue by selling a total of 49,574 pizzas through 21,350 orders over the course of a year.
 
 ▪ ⏰ The restaurant's peak hour was at 1 pm, with a staggering 2.68k orders placed during this time.
 
