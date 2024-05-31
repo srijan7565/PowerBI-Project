@@ -1,5 +1,35 @@
 # PowerBI-Project
 
+**Credit Card Weekly Status Report**
+
+1.Project objective
+2.Data from SQL
+3.Data processing & DAX
+4.Dashboard & insights
+5.Export & share project
+
+**Project Objective**
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
+Project Insights- Week 52 (31 st Dec)
+WoW change:
+•Revenue increased by 28.8%,
+
+Overview YTD:
+•Overall revenue is 57M
+•Total interest is 8M
+•Total transaction amount is 46M
+•Male customers are contributing more in revenue 31M, female 26M
+•Blue & Silver credit card are contributing to 93% of overall transactions
+•TX, NY & CA is contributing to 68%
+•Overall Activation rate is 57.5%
+•Overall Delinquent rate is 6.06%
+
+![image](https://github.com/srijan7565/PowerBI-Projects/assets/133694651/e70e369c-cd12-484d-a906-e3f9aed4a4a0)
+
+![image](https://github.com/srijan7565/PowerBI-Projects/assets/133694651/06fd6097-72f1-4d05-bb12-dfea4af31de1)
+
+
 **HR Analytcis Dashboard**
 
 This power BI dashboard will take you to the Power Query environment where I have done data transformed and cleaned, then load it to the Power BI environment for further analysis and and build the dashboard.
